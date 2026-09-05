@@ -1,1 +1,1 @@
-# task1-resposive-portfolio
+# task1-responsive-portfolio
